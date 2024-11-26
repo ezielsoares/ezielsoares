@@ -15,7 +15,7 @@ Skills
 
 Contact
 
-- 💼 @ on Linkedin
+- 💼 @ezielsoares on Linkedin
 - 📷 @ on Instagram
 
 
