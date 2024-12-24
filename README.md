@@ -1,16 +1,14 @@
 👋 Hi everyone,
 
-I’m Eziel Soares, a perfectionist web/software/AI developer. I'm a STEM lover, plus other crazes. Free software rooter and passionate for human development.
+I’m Eziel Soares, Developer Front-end Jr, focusing on HTML | CSS | JavaScript | Bootstrap | React and Python. I'm a STEM lover, plus other crazes. Free software rooter and passionate for human development.
 
-- 🚀 Founder at @pandafox.startup
-- 👨🏻‍💻 Freelancer at @www
 
 Skills
 
-- 🖥️ .Net C#, HTML5/CSS3/Javascript, Phyton
+- 🖥️ HTML5/CSS3/Javascript, Phyton
 - 🇧 Bootstrap 5
 - 🔄 Design patterns, data structures and algorithms
-- ☁️ Microsoft Azure certified
+- ☁️ Microsoft Azure courses
 - 🪟 Windows, 🐧 Linux
 
 Contact
