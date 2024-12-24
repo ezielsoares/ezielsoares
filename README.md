@@ -1,6 +1,6 @@
 👋 Hi everyone,
 
-I’m Eziel Soares, Developer Front-end Jr, focusing on HTML | CSS | JavaScript | Bootstrap | React and Python. I'm a STEM lover, plus other crazes. Free software rooter and passionate for human development.
+I’m Eziel Soares, Developer Front-end Jr, focusing on HTML | CSS | JavaScript | Bootstrap | React and Python. I'm a STEM lover. Free software rooter and passionate for human development.
 
 
 Skills
